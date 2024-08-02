@@ -1,6 +1,6 @@
 # Node.js Çalıştayı
 
-[English](./README.md)
+[English](../en/0-intro.md)
 
 - [Node.js Çalıştayı](#nodejs-çalıştayı)
   - [Giriş](#giriş)
@@ -28,6 +28,6 @@ konularına odaklanılacaktır.
 
 Bu çalıştay bir kurum ve bir şirket arasındaki işbirliğiyle, bir mühendis ekibinin ihtiyaçları doğrultusunda doğmuştur. Bu nedenle sözü geçen ekibin ihtiyaçlarına odaklanmaktadır ve kitlesinin mühendislik geçmişi olduğu varsaymaktadır; başlangıç seviyesi için iyi bir yer olmayabilir.
 
-## [Çalıştaya Hazırlık](./docs/tr/prerequisites.md)
+## [Çalıştaya Hazırlık](./1-prerequisites.md)
 
-[Sonraki bölüme devam edin...](./docs/tr/prerequisites.md)
+[Sonraki bölüme devam edin...](./1-prerequisites.md)
