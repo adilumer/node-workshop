@@ -29,6 +29,6 @@ Throughout this training, you will:
 
 This workshop has its inception in collaboration between an institution and a company, where a team of engineers needed adaptation. It is hence focused on their needs and assumes an engineering background. This might not be a good place to start one's learning.
 
-## [Getting Ready](./1-prerequisites.md)
+## [Getting Ready](./1-prerequisites-I.md)
 
-[Continue to next chapter...](./1-prerequisites.md)
+[Continue to next chapter...](./1-prerequisites-I.md)

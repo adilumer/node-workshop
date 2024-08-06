@@ -46,6 +46,6 @@ You can move on to the next tool now.
 
 You would need a web browser, that your computer probably already has. You would be fine with any modern browser.
 
-## [Next Steps](./2-js-101.md)
+## [Next Steps](./2-prerequisites-II)
 
-[Next Step: How much should I already know?](./2-js-101.md)
+[Next Step: How much should I already know?](./2-prerequisites-II)

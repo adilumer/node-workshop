@@ -44,6 +44,6 @@ Artık sonraki araca devam edebiliriz.
 
 Bir de tarayıcıya ihtiyacınız olacak ki, bilgisayarınızda mevcüttür. Herhangi bir modern tarayıcı iş görür.
 
-## [Sonraki Adım](./2-js-101.md)
+## [Sonraki Adım](./2-prerequisites-II)
 
-[Sonraki Adım: Neleri zaten bilmeliyim?](./2-js-101.md)
+[Sonraki Adım: Neleri zaten bilmeliyim?](./2-prerequisites-II)
